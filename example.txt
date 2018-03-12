@@ -1,0 +1,26 @@
+00:00
+Youtube transcripts should look like this
+00:02
+with alternate times and text.
+00:04
+They often don't have punctuation so
+00:05
+you'll have to add it yourself.
+00:07
+Put the text from the transcript into
+00:09
+a .txt file just like this one.
+00:11
+Then run youtube_transcript_to_srt in
+00:14
+the same directory as the .txt file
+00:16
+and the corresponding .srt file will be created
+00:19
+with the same name as the .txt file, for example
+00:22
+this youtube transcript file is example.txt
+00:24
+and will be converted to example.srt when the
+00:26
+youtube_transcript_to_srt is run.
